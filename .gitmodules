@@ -1,0 +1,6 @@
+[submodule "foc_scrollwheel_hardware"]
+	path = foc_scrollwheel_hardware
+	url = https://github.com/antonwalvoord/foc_scrollwheel_hardware.git
+[submodule "foc_scrollwheel_firmware"]
+	path = foc_scrollwheel_firmware
+	url = https://github.com/antonwalvoord/foc_scrollwheel_firmware.git
